@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 浅灰.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- res/drawable-xxhdpi-v4/bubble_for_sort.9.png
+- res/drawable-xxhdpi-v4/label_bubble.9.png
+- res/drawable-xxhdpi-v4/label_bubble_base16.9.png
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '17'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '2'
+  versionName: '1.0'
