@@ -27,6 +27,11 @@
 ![screenshot-7](https://github.com/grasonchan/smartisan-theme/raw/master/screenshot/screenshot-7.png)
 
 ### 更新日志
+**2019**
+* 01.03
+    * 修复：切换到快捷桌面时状态栏的显示问题
+
+
 **2018**
 * 12.19
     * 宫格线重新取色
